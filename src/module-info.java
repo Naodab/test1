@@ -5,5 +5,5 @@
  * 
  */
 module Test {
-  private a;
+  private b;
 }
